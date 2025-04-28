@@ -33,7 +33,7 @@ The app allows users to browse various meals, apply filters based on their prefe
   Allows users to apply dietary filters to customize the meal list.
 
 - **Tabs Screen**:  
-  Provides bottom tab navigation between "Meals" and "Favorites".
+  Provides bottom tab navigation between "Categories" and "Favorites".
 
 ---
 
@@ -86,7 +86,7 @@ lib/
 ├── widgets/          # Custom widgets (MealItem, Drawer, Tabs, etc.)
 ├── models/           # Data models (Meal, Category)
 ├── data/             # Static data (categories, meals)
-└── utils/            # Utility functions/helpers (if any)
+
 ```
 
 ---
@@ -108,7 +108,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-- **Your Name**  
-  [LinkedIn](https://temiladerebecca.github.io/My_Portfolio_Website/) | [GitHub](https://github.com/TemiladeRebecca)
+- **Talabi Rebecca**  
+  [LinkedIn](https://linkedin.com/in/talabirebecca-virtualdev) | [GitHub](https://github.com/TemiladeRebecca)
 
 
