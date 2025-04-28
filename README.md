@@ -50,8 +50,8 @@ The app allows users to browse various meals, apply filters based on their prefe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/meals-app.git
-   cd meals-app
+   git clone https://github.com/TemiladeRebecca/Flutter_MealApp.git
+   cd Flutter_MealApp
    ```
 
 2. Install dependencies:
